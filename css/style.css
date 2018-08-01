@@ -60,6 +60,3 @@ p {
   padding: 1px;
 }
 
-.picture-2 img:link, .picture-2 img:active, .picture-2 img:hover, .picture-2 img:visited {
-  color: rgb(23,131,187);
-}
