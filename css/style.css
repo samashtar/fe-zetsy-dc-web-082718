@@ -31,5 +31,6 @@ body {
 h1 {
   font-family: 'Baskerville';
   color: rgb(152,173,166);
-  font-size: ;
+  font-size: 5em;
+  font-weight: normal;
 }
