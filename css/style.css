@@ -63,6 +63,15 @@ p {
 #link1 img:hover{
     border: 5px rgb(111,127,122) solid
 }
+#link2 img:hover{
+    border: 5px rgb(111,127,122) solid
+}
+#link3 img:hover{
+    border: 5px rgb(111,127,122) solid
+}
+#link4 img:hover{
+    border: 5px rgb(111,127,122) solid
+}
     
 #press {
     margin-bottom: 20px;
