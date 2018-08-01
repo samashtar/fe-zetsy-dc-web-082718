@@ -62,6 +62,6 @@ p {
 .picture-2:hover{
   text-decoration: underline;
 }
-#more:link, #more:active, #more:hover, #more:visited {
+.picture-2 img:link, .picture-2:active, .picture-2:hover, .picture-2:visited {
   color: rgb(23,131,187);
 }
